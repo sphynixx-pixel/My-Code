@@ -1,4 +1,4 @@
-# Anime × JDM Car Showcase 🚗✨
+# Anime × JDM Car Showcase 
 
 ## 📖 Overview
 This project is an **Anime-themed JDM car showcase with a gallery and a car submission form**.  
